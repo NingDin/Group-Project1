@@ -26,6 +26,9 @@ Twitter API
 Yahoo finance
 ## Rough Breakdown of Tasks
 Scrum: Ning Ding
+
 API: David John Chartrand
+
 Data manipulation: Ning Ding
+
 Visulization: David Haiming Wang
