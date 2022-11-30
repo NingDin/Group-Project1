@@ -14,5 +14,7 @@ looking at a stock index from a api and compariing to a twitter api to compare t
 - David John Chartrand
 ## Project Descriptions and Ouline
 ## Reaserch Questions to Answer
+What is the correlations between the tweets and the market?
+
 ## Dataset to be used
 ## Rough Breakdown of Tasks
