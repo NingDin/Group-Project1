@@ -22,4 +22,10 @@ What is the correlations between the tweets and the market? (alt we use frequenc
 Do possitive or negative tweets have a greater correlation with the market?
 
 ## Dataset to be used
+Twitter API
+Yahoo finance
 ## Rough Breakdown of Tasks
+Scrum: Ning Ding
+API: David John Chartrand
+Data manipulation: Ning Ding
+Visulization: David Haiming Wang
