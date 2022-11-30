@@ -16,9 +16,9 @@ looking at a stock index from a api and compariing to a twitter api to compare t
 ## Project Descriptions and Ouline
 ## Reaserch Questions to Answer
 
-Is the canadian and us indexs correlate?
+Is the canadian and us indexs correlated?
 How do US hedgefundmanagers predict/correlate (using sentiment analysis) to the canadian or us market?
-What is the correlations between the tweets and the market?
+What is the correlations between the tweets and the market? (alt we use frequency is the sentiment analysis is too hard)
 Do possitive or negative tweets have a greater correlation with the market?
 
 ## Dataset to be used
