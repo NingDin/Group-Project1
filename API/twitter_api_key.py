@@ -1,0 +1,6 @@
+#Twitter api key
+Bearer_Token ='AAAAAAAAAAAAAAAAAAAAAPpkkAEAAAAAKL39DCq6ZPFGvgdMWHeogkMC%2FCY%3DHFILgAyE2UpPxfiiufeIva5NX8iBHMZRPDlSuLqJDO6IKJurPH'
+API_key = 'MTOpic1RalD9RgiNfsV1dGqCM'
+api_key_secret = 'KmQeL9yTPiKqTDZXZOaNNxpXf2MkgMh8MPjSFrvsevNRNdjfiV'
+Access_Token = '1443048757721972737-V2hzF2tpVQDFf6mjYBqiwSn7fESXxN'
+Access_Token Secret = 'nZZ3Kc1WaspnnlCruBwDjoKp3GjD1YT6fhkCnIPEo19bY'
