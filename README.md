@@ -23,6 +23,9 @@ how do hedge fund managers from different
 
 looking at a stock index from a api and compariing to a twitter api to compare to tweets about the market. using content analysis we will check the tweets to see what if they are saying good or bad things about the market and see how the market reacts. 
 
+## Twitter Analysis & API
+David began the project ny narrowing down the accounts we looked at by looking at the accounts that Ning was following. David then created a DataFrame that incompassed these users ID, Username, and Name. I them created a random sample of the users and collected their twitter timeline from the last years. Then Ning create a script to use HuggingFace sentiment analysis to evaluate where the tweets were positive or negative to see if there was a correlation between the tweet sentiment and the S&P 500 stock price.  
+
 ## Team Members
 - Ning Ding
 - David Haiming Wang
