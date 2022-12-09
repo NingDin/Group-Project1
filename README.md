@@ -1,6 +1,6 @@
 # Group-Project1
 ## Project Title
-### idea 4: The markets reactions to a twitter news accounts.
+### The markets reactions to a twitter news accounts.
 ### SPY 500 stock using other different stocks
 stock indexes from other markets like canadian markets.
 1. SPY daily return is not normalize distributed
