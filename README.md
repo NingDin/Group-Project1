@@ -17,9 +17,9 @@ Visulization: David Haiming Wang
 Twitter API
 Yahoo finance (Yfinance)
 
-## Project Flow
+## Project Flow: 
 
-Data Sourcing, Gathering and Preparation:
+## Part I: Data Sourcing, Gathering and Preparation:
 
 ## Stock Data
 Ning located Yfinance from Github which allowed him to download stock prices for any given ticker from Yahoo Finance. Ning defined several functions to help narrow down the data by time frame, he also cleaned the data by dropping irrelevent values and columns and only keeping the stock prices. Ning retrieved the stock prices for two indexes: SPY (represents the US Stock Market) and ACWX (used to represent the other stock markets in the world). Ning created a column and using simple column manipulations to calculated the return of both stocks for each day.
@@ -27,7 +27,7 @@ Ning located Yfinance from Github which allowed him to download stock prices for
 ## Twitter Analysis & API
 David began the project ny narrowing down the accounts we looked at by looking at the accounts that Ning was following. David then created a DataFrame that incompassed these users ID, Username, and Name. I them created a random sample of the users and collected their twitter timeline from the last years. Then Ning create a script to use HuggingFace sentiment analysis to evaluate where the tweets were positive or negative to see if there was a correlation between the tweet sentiment and the S&P 500 stock price. 
 
-Data Manupulation and Creating Visualization
+## Part II: Data Manupulation and Creating Visualization
 
 ## SPY vs ACWX
 In order to compare the relationship between the return of SPY and ACWX, Haiming merged previous created data frames from SPY and ACWX, also created line chart to show the return of both stocks over the years. Also created Scatter plot and used linear regression to discover the correlation between the two stock indexes. The result shows although over all the US Market has higher return on average (might also because the world market index ACWX was only incepted in 2008), the two markets has a strong positive correlation based on these two indexes, we obtained a pearson correlation coefficient of 0.80.
